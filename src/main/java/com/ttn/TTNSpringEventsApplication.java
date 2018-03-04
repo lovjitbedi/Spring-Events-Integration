@@ -1,12 +1,12 @@
-package com.promuplug;
+package com.ttn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PromuMvpApplication {
+public class TTNSpringEventsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PromuMvpApplication.class, args);
+		SpringApplication.run(TTNSpringEventsApplication.class, args);
 	}
 }
